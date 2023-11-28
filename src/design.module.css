@@ -1,0 +1,271 @@
+.home{
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 800px;    
+    background: transparent linear-gradient(180deg, #000000 0%, #000E09 100%) 0% 0% no-repeat padding-box;
+    mix-blend-mode: normal;
+    border-radius: 28px;
+    opacity: 1;
+}
+.logo{
+margin-top: 160px;
+margin-left: 134px;
+width: 90px;
+height: 90px;
+background: transparent url('img/logo.png') 0% 0% no-repeat padding-box;
+mix-blend-mode: normal;
+opacity: 1; 
+}
+
+.inputemail{
+ margin-top: 86px;
+margin-left: 61px;
+width: 238px;
+height: 42px;
+color: white;
+border-radius: 25px;
+outline-style: none;
+background: #1F191966 0% 0% no-repeat padding-box;
+box-shadow: inset 0px 3px 3px #FFFDFD40, 3px 3px 3px #4A494947;
+mix-blend-mode: normal;
+opacity: 1;
+padding-left: 22px;
+}
+.inputpassword{
+margin-top: 25px;
+margin-left: 61px;
+width: 238px;
+height: 42px;
+color: white;
+border-radius: 25px;
+outline-style: none;
+background: #1F191966 0% 0% no-repeat padding-box;
+box-shadow: inset 0px 3px 3px #FFFDFD40, 3px 3px 3px #4A494947;
+mix-blend-mode: normal;
+opacity: 1;
+padding-left: 22px;
+}
+
+.inputbtn{
+ margin-top: 56px;
+margin-left: 61px;
+width: 238px;
+height: 42px;
+letter-spacing: 1px;
+border-radius: 25px;
+background: transparent linear-gradient(180deg, #00FF2580 0%, #000000 100%, #36A54680 100%) 0% 0% no-repeat padding-box;
+mix-blend-mode: normal;
+border: 2px solid #8CFF0026;
+opacity: 1;
+margin-bottom: 26px;
+color: #FFFFFF8C;
+font-weight: bold;
+}
+
+.anc{
+margin-top: 39px;
+margin-left: 116px;
+width: 143px;
+height: 19px;
+text-decoration: none;
+text-align: center;
+font: normal normal normal 15px/20px Mulish;
+letter-spacing: 1.00px;
+color: #36A546;
+opacity: 1;
+font-family: sans-serif;
+}
+
+.dashboard{
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 800px;    
+    background: transparent linear-gradient(180deg, #000000 0%, #000E09 100%) 0% 0% no-repeat padding-box;
+    mix-blend-mode: normal;
+    border-radius: 28px;
+    opacity: 1;
+}
+.contact{
+  margin-top: 44px;
+margin-left: 298px;
+width: 40px;
+height: 40px;
+background: transparent url('img/contact.png') 0% 0% no-repeat padding-box;
+mix-blend-mode: normal;
+opacity: 1;
+}
+
+.moptro_logo{
+margin-left: 145px;
+width: 71px;
+height: 70px;
+background: transparent url('img/moptro_logo.png') 0% 0% no-repeat padding-box;
+mix-blend-mode: normal;
+opacity: 1;
+
+}
+
+.home_logo{
+    width: 30px;
+    height: 30px;
+    background-color: #000000;
+
+}
+.home_logo:hover{
+  box-shadow: rgba(68, 239, 25, 0.56) 0px 22px 70px 4px;
+}
+.listContacat_logo{
+    width: 40px;
+    height: 40px;
+
+}
+.listContacat_logo:hover{
+  box-shadow: rgba(68, 239, 25, 0.56) 0px 22px 70px 4px;
+  
+}
+.dashboardContainer{
+margin-top: 39px;
+margin-left: 15px;
+width: 328px;
+height: 465px;
+background: #5E5E5E82 0% 0% no-repeat padding-box;
+border-radius: 25px;
+box-shadow: inset 0px 4px 0px #00000040;
+mix-blend-mode: normal;
+opacity: 0.4;
+filter: blur
+}
+
+.dashboardTextContainer{
+margin-top: 41px;
+text-align: center;
+width: 328px;
+height: 45px;
+border-radius: 25px;
+padding: 2px;
+background: #ebeded99 0% 0% no-repeat padding-box;
+mix-blend-mode: normal;
+opacity: 1;
+}
+
+.dashboardText{
+ margin-top: 8px; 
+width: 322px;
+height: 25px;
+text-align: center;
+font-family: sans-serif;
+letter-spacing: 0.01px;
+color: #FFFFFFB3;
+opacity: 0.84;
+}
+.footer{
+margin-top: 61px;
+border-radius: 25px;
+width: 360px;
+height: 63px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.search{
+  margin-top: 17px;
+margin-left: 31px;
+width: 198px;
+height: 55px;
+border-radius: 25px;
+text-align: center;
+font-size: 18px;
+outline-style: none;
+background: #5E5E5E82 0% 0% no-repeat padding-box;
+box-shadow: inset 0px 4px 0px #00000040;
+mix-blend-mode: normal;
+border: 1px solid #595959;
+}
+
+.userCard{
+    width: 220px;
+    border: 1px solid #595959;
+    background: #5E5E5E82 0% 0% no-repeat padding-box;
+    border-radius: 25px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.searchBtn{
+    margin-top: 5px;
+    margin-left: 10px;
+    border-radius: 25px;
+    background: #5E5E5E82 0% 0% no-repeat padding-box;
+  
+}
+
+.cardContainer{
+    height: 476px;
+    margin-bottom: 10p;    
+    margin-left: 30px;
+    margin-top: 10px;
+    padding: 10px;
+    overflow: auto;
+
+}
+.cardContainer::-webkit-scrollbar {
+    display: none;
+  }
+
+  .greenText{
+    color: #36A546;
+  }
+  .orangeText{
+    color: orangered;
+  }
+  
+
+.footer_user{
+    margin-top: 2px;
+    border-radius: 25px;
+    width: 360px;
+    height: 63px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.progress-container {
+    margin-bottom: 20px;
+  }
+  
+  .progress-wrapper {
+    position: relative;
+  }
+  
+  .progress-label {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    color: #fff;
+  }
+
+  .weekText{
+    color: white;
+  }
+
+  .progressBar{
+    background-color:green;
+  }
+
+  .err{
+    color: red;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: 90px;
+  }
+  .nameColor{
+    color: gray;
+    
+  }
+  
+
